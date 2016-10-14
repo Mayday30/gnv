@@ -31,9 +31,9 @@ en:
   #===========================#
   hero_image_text: "Ready96 is the fire department's family hub for emergency preparedness."
   motto: "We believe in connection, not catastrophe."
-  motto_explained: "Actual emergencies look more like people coming together than cities falling apart. Ready96 is about prompting members of the community to get connected before an emergency—so we can be that much better off when something happens."
+  motto_explained: "With the goal of putting First Responders at the center, we have developed Ready96. You’ll find real-time information about situations that impact your life, simple steps to get connected, and useful guides to help you get prepared. Share Ready96 with your family- and help your loved ones in the community get prepared."
   what_is: "What is Ready96?"
-  what_text: "Ready96 is your hub for emergency preparedness. You’ll find information about what to do in an emergency, simple steps to get connected, and useful guides to help you get prepared. Share SJFD72 with a friend—and help your loved ones and your community get prepared."
+  what_text: "Ready96 is your hub for emergency preparedness. You’ll find information about what to do in an emergency, simple steps to get connected, and useful guides to help you get prepared. Share Ready96 with a friend—and help your loved ones and your community get prepared."
   good_news: "Good news. You’re more prepared than you think."
   learn_more: "Learn more..."
   gc_explained: "Make the most of your existing networks of friends, family, neighbors, and colleagues—so you can get help, and help others."
@@ -62,10 +62,10 @@ en:
   face_emergency: "Post your status to Facebook to let friends and family know you are ok."
   #Twitter
   use_twitter: "Check updates on Twitter"
-  twitter_fav_1: "@FLSERT"
-  twitter_fav_2: "@Alachua_Co_EM"
-  twitter_fav_3: "@GFR1882"
-  twitter_fav_4: "‎@GainesvilleGov"
+  twitter_fav_1: "@"
+  twitter_fav_2: "@"
+  twitter_fav_3: "@"
+  twitter_fav_4: "‎@"
   use_twitter_now_html: "Add official accounts to your Twitter feed, to stay informed. Some of our favorites:</br> %{twitter_fav_1}, %{twitter_fav_2}, %{twitter_fav_3}, and %{twitter_fav_4}."
   twitter_tag: "#Ready96"
   use_twitter_emergency_html: "Post about yourself and what is happening in your area. Use %{twitter_tag} to connect related tweets."
@@ -83,13 +83,13 @@ en:
   # use_airbnb_now: "Create an AirBnB proﬁle so you are ready to ﬁnd or share a place to stay if anything happens."
   # use_airbnb_emergency: "Find a place to stay, or share your place with those in need."
   #311
-  use_311: "Make the city better with 311GNV"
-  three_link: "311GNV"
-  use_311_now_html: "Start using %{three_link} now to help make Gainesville better by reporting issues such as potholes or damaged street signs."
-  use_311_emergency: "Help the city learn about and respond to needed repairs faster than would be possible without your help."
+  #use_311: "Make the city better with 311GNV"
+  #three_link: "311GNV"
+  #use_311_now_html: "Start using %{three_link} now to help make Gainesville better by reporting issues such as potholes or damaged street signs."
+  #use_311_emergency: "Help the city learn about and respond to needed repairs faster than would be possible without your help."
   #Text Updates
-  use_txt_updates: "Sign up for updates from CodeRED"
-  why_txt_updates: "Connect your phone to Alachua County CodeRED."
+  #use_txt_updates: "Sign up for updates from CodeRED"
+  #why_txt_updates: "Connect your phone to Alachua County CodeRED."
   txt_updates_emergency: "Get official alerts as soon as they are sent out."
 
   #Neighborhood Networks Section
@@ -206,8 +206,8 @@ en:
 
   #CITY STATEMENT
   our_city: "Our city."
-  city_statement: "The city of Gainesville – designed with you in mind. Our city’s purpose is its people."
-  we_believe: "We believe in connection by putting the citizen at the center."
+  city_statement: "San José Firefighters are dedicated to protecting the community and being the leaders in resilience."
+  we_believe: "We believe in connection, not catastrophe."
 
 
   #===========================#
@@ -264,16 +264,16 @@ en:
   #About Us Page
   #===========================#
   for_us_by_us: "Ready96 is for us, by us."
-  our_mission: "Our mission is to enable the people of Gainesville to get connected with real-time information about events and emergencies. Ready96 was created by the City of Gainesville, with the belief that the best way to do this is to get connected to each other, share resources, and put the citizen at the center."
+  our_mission: "Our mission is to enable Firefighters and their families to get prepared. Ready96 was created by San Jose Firefighters & San Jose Fire Department, with the belief that the best way to do this is to get connected to each other, share resources, and start re-imagining the way we think about emergencies."
   who: "Who"
-  who_p1: "For Gainesville, by Gainesville."
-  who_p2: "Gainesville is like no other place, and this platform is tailored to the particular quirks, context and people that make up our city."
+  who_p1: "For SJFD, by SJFD."
+  who_p2: "The fire department family is like no other community – and this platform is tailored to the particular quirks, context and people that make up this special group."
   what: "What"
   what_p1: "A citizen-centered vision of connecting people with real-time information. We do this by providing tools and information that fit into your daily life through Ready96."
   what_p2: "Ready96 is not a new social network. It’s a platform designed to plug into your existing networks – whether social or digital."
   why: "Why"
   why_p1: "A little now will mean a lot later; connecting with your network, downloading an app, or watching a video is the first step towards being better informed."
-  why_p2: "Gainesville, along with other cities across the country, is leading the charge for a different kind of connection with citizens. Let’s start the movement."
+  why_p2: "San Jose Firefighters are leading the charge for a different kind of emergency prep. Let’s start the movement."
   image_credits: "Image Credits"
   # photographer_1_html: "\"<a href='%{link}' target='_blank'>Can I See the View, Too?</a>\" by Chris Lindamood"
   photographer_2_html: "\"<a href='%{link}' target='_blank'>Viva 500 Geocaching</a>\" by Dana Moser"
@@ -317,7 +317,7 @@ en:
   #===========================#
   #Footer Text
   #===========================#
-  footer_text: "Brought to you by the City of Gainesville, in partnership with the people of Gainesville."
+  footer_text: "For SJFD, by SJFD."
   find_out_more: "Find out more"
   about_us: "About Us"
   contact_us: "Contact Us"

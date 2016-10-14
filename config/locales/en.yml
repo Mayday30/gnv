@@ -29,12 +29,12 @@ en:
   #===========================#
   #Home Landing Page Strings
   #===========================#
-  hero_image_text: "Gainesville’s hub for events and emergency information"
-  motto: "We believe in connection by putting the citizen at the center."
-  motto_explained: "Actual emergencies look more like people coming together than cities falling apart. SafeGNV is about prompting members of the community to get connected with real-time information so we can be that much better off when something happens."
+  hero_image_text: "Ready96 is the fire department's family hub for emergency preparedness."
+  motto: "We believe in connection, not catastrophe."
+  motto_explained: "Actual emergencies look more like people coming together than cities falling apart. Ready96 is about prompting members of the community to get connected before an emergency—so we can be that much better off when something happens."
   what_is: "What is Ready96?"
-  what_text: "With the goal of putting Gainesville’s citizens at the center, we have developed SafeGNV. You’ll find real-time information about situations that impact your life, simple steps to get connected, and useful guides to help you get prepared. Share SafeGNV with a friend—help your loved ones and your community stay informed."
-  good_news: "Good news. You’re more connected than you think."
+  what_text: "Ready96 is your hub for emergency preparedness. You’ll find information about what to do in an emergency, simple steps to get connected, and useful guides to help you get prepared. Share SJFD72 with a friend—and help your loved ones and your community get prepared."
+  good_news: "Good news. You’re more prepared than you think."
   learn_more: "Learn more..."
   gc_explained: "Make the most of your existing networks of friends, family, neighbors, and colleagues—so you can get help, and help others."
   sup: "Gather Supplies"
@@ -46,12 +46,12 @@ en:
   #===========================#
   #Get Connected Page Strings
   #===========================#
-  allabout: "Connection is all about people."
-  connectmain: "When an event occurs, we come together to help each other. Being connected is about knowing your neighbors, saying hi to the regulars at your local market, and staying in touch with family and friends—both digitally and in person."
+  allabout: "Preparedness is all about people."
+  connectmain: "When disaster strikes, we come together to help each other. Getting prepared is about knowing your neighbors, saying hi to the regulars at the local market, and staying in touch with family and friends—both digitally and in person."
   networks: "Connect through your digital networks."
   inevent: "In the event of an emergency, we all turn to our existing tools and networks—many of which are digital. Think about your connections and the online communities you’re already a part of, so you can share updates and information when something happens."
-  learnabout: "Learn about SafeGNV."
-  learnaboutdetails: "Find out the story behind the creation of SafeGNV."
+  learnabout: "Learn about Ready96."
+  learnaboutdetails: "Find out the story behind the creation of Ready96."
   aboutus: "About Us"
   useface: "Use your Facebook account"
   now: "Now:"
@@ -67,9 +67,9 @@ en:
   twitter_fav_3: "@GFR1882"
   twitter_fav_4: "‎@GainesvilleGov"
   use_twitter_now_html: "Add official accounts to your Twitter feed, to stay informed. Some of our favorites:</br> %{twitter_fav_1}, %{twitter_fav_2}, %{twitter_fav_3}, and %{twitter_fav_4}."
-  twitter_tag: "#safeGNV"
+  twitter_tag: "#Ready96"
   use_twitter_emergency_html: "Post about yourself and what is happening in your area. Use %{twitter_tag} to connect related tweets."
-  city72_tweet_tag: "safeGNV"
+  city72_tweet_tag: "Ready96"
   #Cloud Service
   use_cloud: "Save documents to a cloud service"
   use_cloud_now: "Scan personal documents like your driver’s license, passport, and birth certificate. Save digital copies on Dropbox, Box, or another cloud service."
@@ -191,7 +191,7 @@ en:
   #===========================#
 
   a_personal_look: "Learn and be inspired to prepare."
-  watch_personal_stories: "Watch this short video to learn about SafeGNV and how it can help you get connected and prepared."
+  watch_personal_stories: "Watch this short video to learn about Ready96 and how it can help you get connected and prepared."
 
   #STORY TITLES AND CAPTIONS
   story_description_1_name : "Kim"
@@ -263,14 +263,14 @@ en:
   #===========================#
   #About Us Page
   #===========================#
-  for_us_by_us: "SafeGNV is for us, by us."
-  our_mission: "Our mission is to enable the people of Gainesville to get connected with real-time information about events and emergencies. SafeGNV was created by the City of Gainesville, with the belief that the best way to do this is to get connected to each other, share resources, and put the citizen at the center."
+  for_us_by_us: "Ready96 is for us, by us."
+  our_mission: "Our mission is to enable the people of Gainesville to get connected with real-time information about events and emergencies. Ready96 was created by the City of Gainesville, with the belief that the best way to do this is to get connected to each other, share resources, and put the citizen at the center."
   who: "Who"
   who_p1: "For Gainesville, by Gainesville."
   who_p2: "Gainesville is like no other place, and this platform is tailored to the particular quirks, context and people that make up our city."
   what: "What"
-  what_p1: "A citizen-centered vision of connecting people with real-time information. We do this by providing tools and information that fit into your daily life through SafeGNV."
-  what_p2: "SafeGNV is not a new social network. It’s a platform designed to plug into your existing networks – whether social or digital."
+  what_p1: "A citizen-centered vision of connecting people with real-time information. We do this by providing tools and information that fit into your daily life through Ready96."
+  what_p2: "Ready96 is not a new social network. It’s a platform designed to plug into your existing networks – whether social or digital."
   why: "Why"
   why_p1: "A little now will mean a lot later; connecting with your network, downloading an app, or watching a video is the first step towards being better informed."
   why_p2: "Gainesville, along with other cities across the country, is leading the charge for a different kind of connection with citizens. Let’s start the movement."
@@ -284,7 +284,7 @@ en:
   #===========================#
   #Map & Updates Page(s)
   #===========================#
-  em_home_title: "SafeGNV - Real-time Information"
+  em_home_title: "Ready96 - Real-time Information"
   in_an_emergency: "This is your real-time hub regarding critical community information."
   you_will_find: "You’ll find official updates, partner updates, traffic information, and an interactive map to navigate community resources. Tour this page to better understand how to use it during a situation or an emergency."
   map_guide: "Map Guide"

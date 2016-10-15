@@ -19,3 +19,5 @@
 config/database.yml
 
 Gemfile.lock
+
+npm-debug.log
